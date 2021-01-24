@@ -5,6 +5,8 @@
 
 MOVED to this new repo https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io
 
+And this new web https://firefoxcss-store.github.io/
+
 
 
 
