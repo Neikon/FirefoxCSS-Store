@@ -1,4 +1,25 @@
 # FirefoxCSS-Store
+
+
+
+
+MOVED to this new repo https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit. 
 Link to web https://neikon.github.io/FirefoxCSS-Store/
 ```
